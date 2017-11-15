@@ -8,3 +8,6 @@ go to target - capabilities - HealthKit.
 be sure the tab is opened, and none warning is here.
 
 then Command + R
+
+Permission is here by.
+Mit
