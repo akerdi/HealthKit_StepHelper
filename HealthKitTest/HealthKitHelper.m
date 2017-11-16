@@ -78,6 +78,8 @@ static NSInteger _farFromToday = 30;
                 }
             }
             if (callback) callback(datas);
+        } else {
+            if (callback) callback(@[]);
         }
     };
     [_healthStore executeQuery:collectionQuery];
